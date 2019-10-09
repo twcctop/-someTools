@@ -1,0 +1,11 @@
+²Î¿¼µØÖ·£º
+https://blog.csdn.net/u012814856/article/details/80684376
+
+C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin
+cd /d C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\Code.exe
+
+
+code --install-extension yzhang.markdown-all-in-one-1.4.0.vsix
+
+
+C:\Program Files\Microsoft VS Code\Code.exe
